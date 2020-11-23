@@ -2,8 +2,8 @@ import { Injectable } from '@nestjs/common';
 //import { InjectRepository } from '@nestjs/typeorm';
 //import { Repository } from 'typeorm';
 
-//esta es la interfaz segun el cursi=o
-import { User } from '../interfaces/user';
+//esta es la interfaz segun el curso
+import { User } from './interfaces/user';
 
 //import { Users } from '../model/entities/Users';
 

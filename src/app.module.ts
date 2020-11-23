@@ -3,12 +3,12 @@ import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { UsersController } from './users/users.controller';
 import { UsersService } from './users/users.service';
-import { UsersModule } from './users/users.module';
+//import { UsersModule } from './users/users.module';
 import { SkillsController } from './skills/skills.controller';
 import { SkillsService } from './skills/skills.service';
-import { SkillsModule } from './skills/skills.module';
+//import { SkillsModule } from './skills/skills.module';
 
-import { TypeOrmModule } from '@nestjs/typeorm';
+//import { TypeOrmModule } from '@nestjs/typeorm';
 
 @Module({
   imports: [
