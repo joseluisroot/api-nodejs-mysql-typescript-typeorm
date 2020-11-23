@@ -3,7 +3,7 @@ import { Injectable } from '@nestjs/common';
 //import { Repository } from 'typeorm';
 
 //esta es la interfaz segun el curso
-import { User } from './interfaces/user';
+import { User } from './interfaces/User';
 
 //import { Users } from '../model/entities/Users';
 

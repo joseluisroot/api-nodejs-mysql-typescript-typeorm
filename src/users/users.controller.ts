@@ -15,7 +15,7 @@ import { CreateUserDto } from '../dto/create-user.dto';
 //import { Request, Response } from 'express';
 
 //interfaces
-import { User } from './interfaces/user';
+import { User } from './interfaces/User';
 
 //importando los servicios
 import { UsersService } from './users.service';
